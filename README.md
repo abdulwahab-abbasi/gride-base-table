@@ -28,6 +28,10 @@ This project was created to practice and showcase CSS Grid skills by building mo
 ## 👨‍💻 Author
 
 **Abdul Wahab**
+
 # check on live
  https://abdulwahab-abbasi.github.io/gride-base-table/
+ 
+#LinedIN profile
+https://www.linkedin.com/in/abdul-wahab-abbasi-348804423/
 
